@@ -19,9 +19,11 @@ C:\Users\[user name]\AppData\KeePass\KeePass.config.xml
 2. Enter master password
 3. Emergency sheet skip
 4. File>Import KeepPass XML (2.x)
-5. Import Bahaviour - Overwite existing
-6. Delete Sample Entrys
+5. Import Bahaviour - Overwrite existing
+6. Delete Sample Entries
 7. Tools>Data Tools>Delete Empty Groups
+8. save
+
 
 
 
