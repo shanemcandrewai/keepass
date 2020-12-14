@@ -1,4 +1,4 @@
-# Keepass managment
+# Keepass management
 ## Configuration file
 ### Windows
 C:\Users\[user name]\AppData\KeePass\KeePass.config.xml
